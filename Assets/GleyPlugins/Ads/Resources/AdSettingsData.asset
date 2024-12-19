@@ -97,15 +97,15 @@ MonoBehaviour:
     - platform: 0
       enabled: 1
       appId:
-        id: ca-app-pub-7391675256466348~3952607978
+        id: ca-app-pub-1119159894070553~7324308244
         displayName: App ID
         notRequired: 0
       idBanner:
-        id: ca-app-pub-7391675256466348/8773689811
+        id: ca-app-pub-3940256099942544/6300978111
         displayName: Banner ID
         notRequired: 0
       idInterstitial:
-        id: ca-app-pub-7391675256466348/5749409955
+        id: ca-app-pub-3940256099942544/1033173712
         displayName: Interstitial ID
         notRequired: 0
       idRewarded:

@@ -12,12 +12,9 @@ public class MainCanvas : MonoBehaviour
     public Text txt;
     public void PlayGame()
     {
-        AdController.instance.ShowAds(() =>
-        {
-            SceneManager.LoadScene(levelNo);
-        });
+       
         levelNo = PlayerPrefs.GetInt("Level", 1);
-      
+        SceneManager.LoadScene(levelNo);
     }
     
     private void Update()
