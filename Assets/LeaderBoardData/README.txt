@@ -1,0 +1,3 @@
+API Key=dev_3a0783bc135944f9a3f8fd7e3d340e88
+Domain Key=syst4dcl
+Leaderboard ID=14813
